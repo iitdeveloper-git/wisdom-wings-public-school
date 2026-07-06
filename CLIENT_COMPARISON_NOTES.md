@@ -2,15 +2,15 @@
 
 ## Purpose
 
-Ye note client ko explain karne ke liye hai ki Shyama Public School ki purani website ko modify/redesign karne ki zarurat kyon thi, aur new website me kya-kya improvements kiye gaye hain.
+Ye note client ko explain karne ke liye hai ki Wisdom Wings Public School ki purani website ko modify/redesign karne ki zarurat kyon thi, aur new website me kya-kya improvements kiye gaye hain.
 
 ## Old Website Link
 
-https://shyamapublicschool.com/
+https://wisdomwingspublicschool.com/
 
 ## New Website Link
 
-https://shyama-public-school-gyanpur.netlify.app
+https://wisdom-wings-public-school.netlify.app
 
 ## Why The Website Needed Modification
 
@@ -83,13 +83,13 @@ New website me sitemap, robots.txt, favicon, browser title, Netlify configuratio
 
 New website is live here:
 
-https://shyama-public-school-gyanpur.netlify.app
+https://wisdom-wings-public-school.netlify.app
 
 ## Final GitHub Repository
 
 Code repository:
 
-https://github.com/sushma1918/shyamapublicschool
+https://github.com/iitdeveloper-git/wisdom-wings-public-school.git
 
 ## Final Audit Summary
 
@@ -114,14 +114,14 @@ The final website was checked for:
 
 Hello,
 
-Shyama Public School ki purani website ko modern, premium aur responsive school website me redesign kiya gaya hai. Purani website me basic content available tha, lekin design, layout, mobile experience, gallery presentation, navigation clarity aur contact flow ko improve karne ki zarurat thi.
+Wisdom Wings Public School ki purani website ko modern, premium aur responsive school website me redesign kiya gaya hai. Purani website me basic content available tha, lekin design, layout, mobile experience, gallery presentation, navigation clarity aur contact flow ko improve karne ki zarurat thi.
 
 New website me same school identity aur core information ko maintain rakhte hue modern UI, better spacing, responsive layout, Google Map, call/WhatsApp buttons, improved gallery, inquiry forms, sitemap, robots file aur custom 404 page add kiya gaya hai.
 
 Live website:
-https://shyama-public-school-gyanpur.netlify.app
+https://wisdom-wings-public-school.netlify.app
 
 GitHub repository:
-https://github.com/sushma1918/shyamapublicschool
+https://github.com/iitdeveloper-git/wisdom-wings-public-school.git
 
 Website review ke liye ready hai. Agar school ki taraf se koi new photo, content, admission notice, fee detail ya CBSE document add karna ho, to woh future update me add kiya ja sakta hai.

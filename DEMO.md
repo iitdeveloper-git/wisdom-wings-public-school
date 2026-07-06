@@ -1,6 +1,6 @@
-# Shyama Public School Website Demo
+# Wisdom Wings Public School Website Demo
 
-This demo build contains the redesigned frontend for Shyama Public School, Gyanpur.
+This demo build contains the redesigned frontend for Wisdom Wings Public School, Gyanpur.
 
 ## Demo Pages
 

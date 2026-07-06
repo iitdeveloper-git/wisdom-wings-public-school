@@ -1,13 +1,13 @@
-# Client Handover Notes - Shyama Public School Website
+# Client Handover Notes - Wisdom Wings Public School Website
 
 ## Project Overview
 
-The Shyama Public School website has been rebuilt as a modern, responsive, production-ready static website. The new website keeps the school content, pages, images, contact details, and key functionality intact while improving the visual design, mobile experience, navigation, gallery, contact options, and deployment setup.
+The Wisdom Wings Public School website has been rebuilt as a modern, responsive, production-ready static website. The new website keeps the school content, pages, images, contact details, and key functionality intact while improving the visual design, mobile experience, navigation, gallery, contact options, and deployment setup.
 
 ## Final Links
 
-- Live Website: https://shyama-public-school-gyanpur.netlify.app
-- GitHub Repository: https://github.com/sushma1918/shyamapublicschool
+- Live Website: https://wisdom-wings-public-school.netlify.app
+- GitHub Repository: https://github.com/iitdeveloper-git/wisdom-wings-public-school.git
 
 ## Pages Included
 
@@ -105,7 +105,7 @@ Audit result: No critical issue found.
 
 These are not required for the current final website, but can be added later if the school wants more advanced features:
 
-- Custom domain setup, such as `shyamapublicschool.com`
+- Custom domain setup, such as `wisdomwingspublicschool.com`
 - Real backend for admission/contact form storage
 - Google Search Console setup
 - Google Analytics setup

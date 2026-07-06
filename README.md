@@ -1,10 +1,10 @@
-# Shyama Public School Website
+# Wisdom Wings Public School Website
 
-Final static website for Shyama Public School, Gyanpur, Bhadohi.
+Final static website for Wisdom Wings Public School, Gyanpur, Bhadohi.
 
 ## Live Site
 
-https://shyamapublicschoolgyanpur.netlify.app
+https://wisdom-wings-public-school.netlify.app
 
 ## Pages
 
