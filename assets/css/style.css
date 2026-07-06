@@ -1727,7 +1727,8 @@ footer {
   box-sizing: border-box;
 }
 
-.carousel-slide img {
+.carousel-slide img,
+.carousel-slide video {
   width: 100%;
   height: auto;
   max-height: 480px;
