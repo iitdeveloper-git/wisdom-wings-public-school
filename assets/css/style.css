@@ -1,26 +1,25 @@
 /* 
- * Wisdom Wings Public School - Earthy Organic & Playful Joyloo-Inspired Revamp Styling
- * Styled to match a modern organic educational layout: Outfit & Inter fonts,
- * terracotta orange, forest green, warm cream backgrounds, and deep chocolate brown text.
+ * Wisdom Wings Public School - Classic Blue & Gold Premium Educational Styling
+ * Styled to match a modern educational layout: Navy Blue, Medium Blue, Golden Yellow, and Light Gray backgrounds.
  */
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@300;400;500;600;700;800&family=Playfair+Display:wght@600;700&display=swap');
 
 :root {
-  /* Joyloo Organic Colors */
-  --primary-color: #38BDF8;       /* Terracotta Orange */
-  --primary-hover: #0EA5E9;       /* Darker Terracotta Orange */
-  --secondary-color: #0284C7;     /* Rich Forest Green */
-  --accent-color: #38BDF8;        /* Sun Yellow */
-  --accent-gold: #0EA5E9;         /* Legacy gold alias */
-  --accent-blue: #38BDF8;         /* Sky Blue */
-  --bg-cream: #F1F5F9;            /* Warm Earthy Sand background */
+  /* School Premium Color Palette */
+  --primary-color: #0B2240;       /* Deep Navy Blue */
+  --primary-hover: #002D62;       /* Hillsdale Dark Navy Blue */
+  --secondary-color: #005A9C;     /* Medium Blue / Royal Blue */
+  --accent-color: #FFC72C;        /* Golden Yellow */
+  --accent-gold: #FFC72C;         /* Legacy gold alias */
+  --accent-blue: #005A9C;         /* Medium Blue alias */
+  --bg-cream: #F4F6F8;            /* Very Light Gray background */
   --bg-white: #ffffff;
-  --text-dark: #0F172A;           /* Deep Chocolate Brown for headers */
-  --text-body: #1E293B;           /* Warm dark brown-gray for readability */
-  --text-light: #475569;          /* Muted earthy gray for secondary text */
-  --border-color: #E2E8F0;        /* Soft warm sand border */
-  --bg-dark-charcoal: #0F172A;    /* Deep Chocolate Brown for footers */
+  --text-dark: #0B2240;           /* Deep Navy Blue for headers */
+  --text-body: #1E293B;           /* Dark gray for readability */
+  --text-light: #5A6A80;          /* Muted steel-gray for secondary text */
+  --border-color: #E2E8F0;        /* Soft gray border */
+  --bg-dark-charcoal: #0B2240;    /* Deep Navy Blue for footer */
   
   /* Modern Shadows */
   --shadow-sm: 0 4px 12px rgba(15, 23, 42, 0.02);
