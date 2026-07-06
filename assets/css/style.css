@@ -7,19 +7,19 @@
 
 :root {
   /* School Premium Color Palette */
-  --primary-color: #005A9C;       /* Medium Blue / Royal Blue */
-  --primary-hover: #0B2240;       /* Deep Navy Blue */
-  --secondary-color: #0B2240;     /* Deep Navy Blue */
-  --accent-color: #FFC72C;        /* Golden Yellow */
-  --accent-gold: #FFC72C;         /* Legacy gold alias */
-  --accent-blue: #005A9C;         /* Medium Blue alias */
-  --bg-cream: #F4F6F8;            /* Very Light Gray background */
+  --primary-color: #2B6CB0;       /* Medium Blue / Royal Blue */
+  --primary-hover: #1A365D;       /* Deep Navy Blue */
+  --secondary-color: #1A365D;     /* Deep Navy Blue */
+  --accent-color: #48BB78;        /* Fresh School Green */
+  --accent-gold: #48BB78;         /* Fresh School Green alias */
+  --accent-blue: #2B6CB0;         /* Medium Blue alias */
+  --bg-cream: #F7FAFC;            /* Light background matching the mockup */
   --bg-white: #ffffff;
-  --text-dark: #0B2240;           /* Deep Navy Blue for headers */
-  --text-body: #1E293B;           /* Dark gray for readability */
-  --text-light: #5A6A80;          /* Muted steel-gray for secondary text */
+  --text-dark: #1A365D;           /* Deep Navy Blue for headers */
+  --text-body: #2D3748;           /* Charcoal for body readability */
+  --text-light: #718096;          /* Steel-gray for secondary text */
   --border-color: #E2E8F0;        /* Soft gray border */
-  --bg-dark-charcoal: #0B2240;    /* Deep Navy Blue for footer */
+  --bg-dark-charcoal: #1A365D;    /* Deep Navy Blue for footer */
   
   /* Modern Shadows */
   --shadow-sm: 0 4px 12px rgba(15, 23, 42, 0.02);
